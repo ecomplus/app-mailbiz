@@ -7,8 +7,8 @@
 
 const app = {
   app_id: 118310,
-  title: 'My Awesome E-Com Plus App',
-  slug: 'my-awesome-app',
+  title: 'Mailbiz',
+  slug: 'mailbiz',
   type: 'external',
   state: 'active',
   authentication: true,
