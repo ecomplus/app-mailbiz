@@ -8,7 +8,7 @@
 const app = {
   app_id: 118310,
   title: 'Mailbiz',
-  slug: 'mailbiz',
+  slug: 'app-mailbiz',
   type: 'external',
   state: 'active',
   authentication: true,
