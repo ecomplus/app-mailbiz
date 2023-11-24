@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2023-11-24)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major ([3415338](https://github.com/ecomplus/application-starter/commit/3415338e84602a871d621685453428ed73cbc19e))
+* **deps:** update all non-major ([a44d688](https://github.com/ecomplus/application-starter/commit/a44d68811c1433394583284da27cde918749f4c3))
+* **deps:** update dependency firebase-tools to ^11.16.0 ([48ecb24](https://github.com/ecomplus/application-starter/commit/48ecb240e3f32ca12d7b4221dbca222284cf01f4))
+
 ## [1.0.0-starter.26](https://github.com/ecomplus/application-starter/compare/v1.0.0-starter.25...v1.0.0-starter.26) (2022-02-24)
 
 ## [1.0.0-starter.25](https://github.com/ecomplus/application-starter/compare/v1.0.0-starter.24...v1.0.0-starter.25) (2022-02-24)
